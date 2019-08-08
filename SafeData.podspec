@@ -21,16 +21,14 @@ Pod::Spec.new do |spec|
 
 
   spec.description  = <<-DESC 
-                         SafeData 是一个用于解决无数据闪退的问题
-                   DESC
+                         A short description of SafeData.
+                        DESC
 
   spec.homepage     = "https://github.com/frankKiwi/SafeData"
   
 
   spec.license      = "MIT"
-  # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-
-
+  
 
 
   spec.author             = { "fanrenFRank" => "1778907544@qq.com" }
