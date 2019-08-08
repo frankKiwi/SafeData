@@ -23,6 +23,9 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC 
                          A short description of SafeData.
                         DESC
+  
+  spec.platform     = :ios
+  spec.platform     = :ios, "8.0"
 
   spec.homepage     = "https://github.com/frankKiwi/SafeData"
   
