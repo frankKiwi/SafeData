@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SafeControl"
-  spec.version      = "1.0.1"
+  spec.version      = "1.1.0"
   spec.summary      = "A short description of SafeControl."
 
   # This description is used to generate tags and improve search results.
