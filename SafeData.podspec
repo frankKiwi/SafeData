@@ -19,10 +19,10 @@ Pod::Spec.new do |spec|
   spec.version      = "1.0.0"
   spec.summary      = "A short description of SafeData."
 
+
   spec.description  = <<-DESC 
                          SafeData 是一个用于解决无数据闪退的问题
                    DESC
- 
 
   spec.homepage     = "https://github.com/frankKiwi/SafeData"
   
